@@ -6,9 +6,22 @@ permalink: /newsblog/
 
 *Intermittent, short articles about news in my area*
 
-- [June 2022 -- Student found with BB gun at Leota Middle School](_posts/2022-06-04-Student-Found-With-BB-Gun-At-Leota-Middle-School.md)
-- [May 2022 -- Superintendent Dr. Reid to leave NSD](_posts/2022-05-03-Superintendent-Dr-Reid-To-Leave-NSD.md)
-- [March 2021 -- Jay Inslee: School districts must offer hybrid learning](_posts/2021-03-12-Jay-Inslee-School-Districts-Must-Offer-Hybrid-Learning.md)
+<ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}">
+        {{ post.title | escape }}
+        </a>
+    </h3>
+    {%- if site.show_excerpts -%}
+        {{ post.excerpt }}
+    {%- endif -%}
+    </li>
+    {%- endfor -%}
+</ul>
 
 ### Purpose
 
