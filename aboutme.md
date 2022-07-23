@@ -36,6 +36,7 @@ I contribute to open source software on [Github](https://github.com/{{site.githu
         color: black !important;
     }
 </style>
+[![My Code Wars profile](https://www.codewars.com/users/linguisician/badges/large)](https://www.codewars.com/users/linguisician){:target="_blank"}
 <br>
 
 ### Journalism

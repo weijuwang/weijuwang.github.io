@@ -16,7 +16,7 @@ See the Github repo's README.md for more details.
 
 #### [This website](https://github.com/weijuwang/weijuwang.github.io){:target="_blank"}
 
-This website is built with [Github Pages](https://pages.github.com/){:target="_blank"} and [Jekyll](https://jekyllrb.com/){:target="_blank"}; it is serverless and requires me to write no HTML (though several parts of this page have custom HTML), as it converts Markdown files automatically. Thus, the source code is mostly Markdown files. If you want to make your own website like this, check out Pages' and Jekyll's websites.
+This website was built with [Github Pages](https://pages.github.com/){:target="_blank"} and [Jekyll](https://jekyllrb.com/){:target="_blank"}; it is serverless and requires no HTML (though several parts of this page have custom HTML), as it converts Markdown files automatically. Thus, the source code is mostly Markdown files. If you want to make your own website like this, check out Pages' and Jekyll's websites for more information.
 
 #### [NoComment (C)](https://esolangs.org/wiki/NoComment){:target="_blank"}
 
