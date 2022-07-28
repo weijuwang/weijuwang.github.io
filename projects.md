@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-*This is WIP. I intend to replace this with a full-fledged catalog of my projects along with descriptions of what they do and the process of building them. For now, this is just a simple list.*
+*This is WIP. I intend to replace this with a more comprehensive catalog-like page of my projects along with descriptions of what they do and the process of building them. For now, this is just a simple list.*
 
 ### Programming
 
