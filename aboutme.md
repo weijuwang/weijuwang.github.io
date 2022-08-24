@@ -9,7 +9,6 @@ permalink: /about/
 *Reporter, Nordic News, 2021-present*<br>
 *Copy editor, Nordic News, 2022-present*<br>
 *Programmer, Valhallabots, 2022-present*<br>
-*Field Advocate, American Foundation for Suicide Prevention*<br>
 
 Hello! I'm a sophomore at [Inglemoor High School](https://inglemoor.nsd.org/){:target="_blank"}, north of Seattle. I code for our school's robotics team, [Valhallabots](https://frc3268.github.io/index.html){:target="_blank"}, and I recently became a copy editor for our school's nationally award-winning newspaper, [Nordic News](https://nordicnews.net){:target="_blank"}.
 
